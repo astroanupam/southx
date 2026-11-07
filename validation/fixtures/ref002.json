@@ -1,0 +1,25 @@
+{
+  "id": "REF-002",
+  "source": "JHora screenshot supplied by owner (ref002-jhora-screenshot.webp)",
+  "purpose": "Historical India birth (Independence Day 1947); tithi near a boundary; Table A vs B Dagdha difference (Trayodashi)",
+  "status": "PARTIAL - ayanamsha and node type not visible",
+  "birth": {
+    "date": "1947-08-15", "time_local": "00:01:00", "tz_offset": "+05:30 (East of GMT)",
+    "place": "Delhi, India", "lon_deg_east": "77 E 13' 00\"", "lat_deg_north": "28 N 40' 00\"",
+    "tithi_line": "Krishna Tr... (cut off in screenshot)"
+  },
+  "settings_known": { "zodiac": "sidereal", "ayanamsha": "IDENTIFIED (Stage 2): True Chitra Paksha - Spica astrometric longitude minus 180 deg; matches to <0.1 arcsec", "nodes": "IDENTIFIED (Stage 2): mean node plus nutation in longitude (matches to 0.1 arcsec)" },
+  "rows": [
+    {"body": "Lagna",   "lon": "8 Ta 03' 18.22\"",  "nak": "Krit", "pada": 4, "rasi": "Ta", "nav": "Pi"},
+    {"body": "Sun",     "lon": "28 Cn 00' 37.52\"", "nak": "Asre", "pada": 4, "rasi": "Cn", "nav": "Pi"},
+    {"body": "Moon",    "lon": "4 Cn 00' 33.71\"",  "nak": "Push", "pada": 1, "rasi": "Cn", "nav": "Le"},
+    {"body": "Mars",    "lon": "7 Ge 28' 44.76\"",  "nak": "Ardr", "pada": 1, "rasi": "Ge", "nav": "Sg"},
+    {"body": "Mercury", "lon": "13 Cn 42' 09.86\"", "nak": "Push", "pada": 4, "rasi": "Cn", "nav": "Sc"},
+    {"body": "Jupiter", "lon": "25 Li 53' 43.74\"", "nak": "Visa", "pada": 2, "rasi": "Li", "nav": "Ta"},
+    {"body": "Venus",   "lon": "22 Cn 35' 22.01\"", "nak": "Asre", "pada": 2, "rasi": "Cn", "nav": "Cp"},
+    {"body": "Saturn",  "lon": "20 Cn 29' 44.73\"", "nak": "Asre", "pada": 2, "rasi": "Cn", "nav": "Cp"},
+    {"body": "Rahu",    "lon": "5 Ta 05' 05.30\"",  "nak": "Krit", "pada": 3, "rasi": "Ta", "nav": "Aq"},
+    {"body": "Ketu",    "lon": "5 Sc 05' 05.30\"",  "nak": "Anu",  "pada": 1, "rasi": "Sc", "nav": "Le"}
+  ],
+  "also_visible": "Transit tab for 2026-11-07 23:59 shown (Tara/Murthi/vedha), not captured here"
+}

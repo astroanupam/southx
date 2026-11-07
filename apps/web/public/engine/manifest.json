@@ -1,0 +1,17 @@
+{
+  "wheels": [
+    "jplephem-2.24-py3-none-any.whl",
+    "sgp4-2.27-py3-none-any.whl",
+    "skyfield-1.55-py3-none-any.whl"
+  ],
+  "py": [
+    "__init__.py",
+    "bridge.py",
+    "jyotisha.py",
+    "skyfield_engine.py"
+  ],
+  "data": [
+    "de440s.bsp.part0",
+    "de440s.bsp.part1"
+  ]
+}

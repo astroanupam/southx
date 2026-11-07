@@ -1,0 +1,24 @@
+{
+  "id": "REF-001",
+  "source": "JHora screenshot supplied by owner (ref001-jhora-screenshot.webp)",
+  "status": "PARTIAL - ayanamsha and node type not visible in screenshot",
+  "birth": {
+    "date": "2026-11-07", "time_local": "23:59:01", "tz_offset": "+05:30 (East of GMT)",
+    "place": "Bhopal, India", "lon_deg_east": "77 E 24' 00\"", "lat_deg_north": "23 N 16' 00\"",
+    "tithi": "Krishna Chaturdasi, 46.42% left", "weekday": "Saturday", "nakshatra": "Chitra, 23.17% left"
+  },
+  "settings_known": { "zodiac": "sidereal", "ayanamsha": "IDENTIFIED (Stage 2): True Chitra Paksha - Spica astrometric longitude minus 180 deg; matches to <0.1 arcsec", "nodes": "IDENTIFIED (Stage 2): mean node plus nutation in longitude (matches to 0.1 arcsec)", "karaka_scheme": "8 chara karakas shown (MK, GK, BK, PK, DK, AK, PiK, AmK)" },
+  "rows": [
+    {"body": "Lagna",   "lon": "22 Cn 01' 16.78\"", "nak": "Asre", "pada": 2, "rasi": "Cn", "nav": "Cp"},
+    {"body": "Sun",     "lon": "21 Li 08' 52.43\"", "nak": "Visa", "pada": 1, "rasi": "Li", "nav": "Ar"},
+    {"body": "Moon",    "lon": "3 Li 34' 40.51\"",  "nak": "Chit", "pada": 4, "rasi": "Li", "nav": "Sc"},
+    {"body": "Mars",    "lon": "27 Cn 44' 20.05\"", "nak": "Asre", "pada": 4, "rasi": "Cn", "nav": "Pi"},
+    {"body": "Mercury", "lon": "14 Li 05' 37.73\"", "nak": "Swat", "pada": 3, "rasi": "Li", "nav": "Aq", "retro": true},
+    {"body": "Jupiter", "lon": "0 Le 52' 33.81\"",  "nak": "Magh", "pada": 1, "rasi": "Le", "nav": "Ar"},
+    {"body": "Venus",   "lon": "29 Vi 26' 28.87\"", "nak": "Chit", "pada": 2, "rasi": "Vi", "nav": "Vi", "retro": true},
+    {"body": "Saturn",  "lon": "14 Pi 39' 57.12\"", "nak": "UBha", "pada": 4, "rasi": "Pi", "nav": "Sc", "retro": true},
+    {"body": "Rahu",    "lon": "1 Aq 29' 47.83\"",  "nak": "Dhan", "pada": 3, "rasi": "Aq", "nav": "Li"},
+    {"body": "Ketu",    "lon": "1 Le 29' 47.83\"",  "nak": "Magh", "pada": 1, "rasi": "Le", "nav": "Ar"}
+  ],
+  "extras_not_in_scope_yet": ["Maandi 12 Cn 27' 37.24\"", "Gulika 1 Cn 48' 31.80\"", "Bhava Lagna 11 Cn 57' 54.35\"", "Hora Lagna 3 Ar 30' 41.26\""]
+}
